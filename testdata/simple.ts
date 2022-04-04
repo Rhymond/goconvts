@@ -1,0 +1,3 @@
+interface simple {
+    bar String;
+}
